@@ -1,0 +1,12 @@
+The top 10 significant security threats identified in the Microsoft Digital Defense Report (2020) include:
+1. **Phishing and Business Email Compromise (BEC)**: Email-based attacks remain dominant, targeting user credentials and exploiting trusted entities such as Microsoft and other enterprise services.
+2. **Human-Operated Ransomware**: This involves targeted attacks with human decision-making at every stage, focusing on lateral movement, data exfiltration, and ransom demands.
+3. **Supply Chain Attacks**: Compromises in third-party services, open-source software, or IoT hardware are exploited, leveraging trust to infiltrate systems.
+4. **Nation-State Threats**: Well-funded and patient actors engage in espionage, credential harvesting, malware development, and VPN exploits, often targeting NGOs, advocacy groups, and think tanks.
+5. **Malware Evolution**: Banking trojans like Emotet and Trickbot are used as multi-stage attack vectors, enabling ransomware or further exploitation of infected networks.
+6. **Credential Phishing**: Attackers use fake login pages and other methods to harvest user credentials for further infiltration or fraud.
+7. **Typosquatting and Malicious Packages**: Cybercriminals publish malicious software packages mimicking legitimate ones or hijack trusted packages to distribute malware.
+8. **Remote Workforce Vulnerabilities**: Increased reliance on remote access tools like VPNs during the COVID-19 pandemic opened new attack vectors, including Distributed Denial of Service (DDoS) and credential exploitation.
+9. **Lateral Movement via Privileged Credentials**: Attackers exploit administrator credentials to move across networks and deploy ransomware payloads.
+10. **Exploitation of Open-Source Software**: Attackers use vulnerabilities in widely used open-source software, leading to broader ecosystem impacts.
+These threats underscore the need for robust defenses, including multi-factor authentication, Zero Trust principles, regular patching, and strong credential management.

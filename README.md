@@ -23,5 +23,5 @@ This project analyzes the **Microsoft Digital Defense Report (2020-2024)** using
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/ms-defense-analysis.git
-   cd ms-defense-analysis
+   git clone https://github.com/vidyavenkappa/Microsoft-Defense-Report-Analysis.git
+   cd Microsoft-Defense-Report-Analysis/

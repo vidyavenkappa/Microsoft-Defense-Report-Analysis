@@ -9,7 +9,6 @@ os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 
 if __name__ == "__main__":
     # Directory containing text files
-    # file_path = "/home/vsathish/llms/cyber_incident/threat_analysis/data/Report2020.pdf"
     with open('data_json.json', 'r') as file:
         data = json.load(file)
         start_time1 = time.time()

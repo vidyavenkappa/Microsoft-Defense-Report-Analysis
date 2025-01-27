@@ -1,6 +1,6 @@
 [
     {
-        "file_name": "/home/vsathish/llms/cyber_incident/threat_analysis/data/Report2020.pdf",
+        "file_name": "./data/Report2020.pdf",
         "replace_str": [
             "Microsoft Digital Defense Report | September 2020",
             "Microsoft Digital",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "file_name": "/home/vsathish/llms/cyber_incident/threat_analysis/data/Report2021.pdf",
+        "file_name": "./data/Report2021.pdf",
         "replace_str": [
             "Microsoft Digital Defense Report | October 2021",
             "Microsoft Digital",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "file_name": "/home/vsathish/llms/cyber_incident/threat_analysis/data/Report2022.pdf",
+        "file_name": "./data/Report2022.pdf",
         "replace_str": [
             "Microsoft Digital Defense Report 2022",
             "Microsoft Digital",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "file_name": "/home/vsathish/llms/cyber_incident/threat_analysis/data/Report2023.pdf",
+        "file_name": "./data/Report2023.pdf",
         "replace_str": [
             "Microsoft Digital Defense Report | October 2023",
             "Microsoft Digital Defense Report 2023",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "file_name": "/home/vsathish/llms/cyber_incident/threat_analysis/data/Report2024.pdf",
+        "file_name": "./data/Report2024.pdf",
         "replace_str": [
             "Microsoft Digital Defense Report | 2024",
             "Microsoft Digital Defense Report 2024",
